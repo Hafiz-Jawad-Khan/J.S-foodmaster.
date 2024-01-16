@@ -1,0 +1,53 @@
+body{
+    background-color: navy;
+    color: red;
+    
+}
+.parent{
+    margin: 0px,auto;
+    width: 1000px;
+    text-align: center;
+    /* display: inline-block;
+    border-radius: 100px; */
+}
+.image{
+    min-height: 300px; 
+  width: 300px;
+  border: 1px solid rgb(5, 56, 149);
+  display: inline-block;
+  background-color: #a600ff;
+  color: yellow;
+}
+button{
+    background-color: #5900ff;
+    color: red;
+}
+.box1 :hover{
+    background-color: #4000ff;
+    color: navy;
+}
+.box2 :hover{
+    background: #2600ff;
+    color: purple;
+}
+.box3 :hover{
+    background: #73008c;
+    color: blueviolet;
+}
+/* .parent :hover{
+    background: #ba8c5c;
+} */
+a{
+    
+    color: orange;
+}
+.chessbody{
+    background-color: #c9bc9e;
+}
+i{
+    color: black;
+    text-align: ;
+}
+.luddobody{
+background-color:#c9bc9e ;
+}
